@@ -3,10 +3,10 @@
 
 import export
 
-host = 'rds3qejaynvbvqj.sqlserver.rds.aliyuncs.com:3433'
-user = 'shinetour_dba2'
-password = 'shinetour'
-database = 'st_insurance'
+host = ''
+user = ''
+password = ''
+database = ''
 sheetname = 'example'
 file = r'./example.xlsx'
 sql = '''
